@@ -1,0 +1,157 @@
+{
+  "review_branch": "review/pr-38-reconstructed",
+  "source_pr": "hkust-nlp/Toolathlon#38",
+  "commit_sha": "2538d74fbcb774a068d1949985b1aec89314e912",
+  "tasks": {
+    "apply-phd-email": {
+      "note_file": "tasks/finalpool/apply-phd-email/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/apply-phd-email/evaluation/check_local_email.py",
+        "tasks/finalpool/apply-phd-email/preprocess/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "canvas-arrange-exam": {
+      "note_file": "tasks/finalpool/canvas-arrange-exam/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/canvas-arrange-exam/docs/task.md",
+        "tasks/finalpool/canvas-arrange-exam/preprocess/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "email-paper-homepage": {
+      "note_file": "tasks/finalpool/email-paper-homepage/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/email-paper-homepage/docs/task.md",
+        "tasks/finalpool/email-paper-homepage/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "game-statistics": {
+      "note_file": "tasks/finalpool/game-statistics/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/game-statistics/evaluation/main.py",
+        "tasks/finalpool/game-statistics/preprocess/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "identify-all-songs": {
+      "note_file": "tasks/finalpool/identify-all-songs/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/identify-all-songs/evaluation/check_content.py"
+      ],
+      "resolution": "staged"
+    },
+    "imagenet": {
+      "note_file": "tasks/finalpool/imagenet/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/imagenet/evaluation/check_local.py"
+      ],
+      "resolution": "staged"
+    },
+    "latex-prompt-box": {
+      "note_file": "tasks/finalpool/latex-prompt-box/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/latex-prompt-box/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "llm-training-dataset": {
+      "note_file": "tasks/finalpool/llm-training-dataset/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/llm-training-dataset/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "merge-hf-datasets": {
+      "note_file": "tasks/finalpool/merge-hf-datasets/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/merge-hf-datasets/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "notion-find-job": {
+      "note_file": "tasks/finalpool/notion-find-job/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/notion-find-job/docs/task.md"
+      ],
+      "resolution": "staged"
+    },
+    "notion-personal-website": {
+      "note_file": "tasks/finalpool/notion-personal-website/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/notion-personal-website/docs/task.md",
+        "tasks/finalpool/notion-personal-website/evaluation/check_remote.py"
+      ],
+      "resolution": "staged"
+    },
+    "oil-price": {
+      "note_file": "tasks/finalpool/oil-price/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/oil-price/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "privacy-desensitization": {
+      "note_file": "tasks/finalpool/privacy-desensitization/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/privacy-desensitization/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "quantitative-financial-analysis": {
+      "note_file": "tasks/finalpool/quantitative-financial-analysis/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/quantitative-financial-analysis/evaluation/check_content.py",
+        "tasks/finalpool/quantitative-financial-analysis/groundtruth_workspace/groundtruth_data.csv"
+      ],
+      "resolution": "staged"
+    },
+    "stock-build-position": {
+      "note_file": "tasks/finalpool/stock-build-position/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/stock-build-position/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "student-interview": {
+      "note_file": "tasks/finalpool/student-interview/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/student-interview/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    },
+    "university-course-selection": {
+      "note_file": "tasks/finalpool/university-course-selection/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/university-course-selection/evaluation/check_local.py"
+      ],
+      "resolution": "staged"
+    },
+    "vlm-history-completer": {
+      "note_file": "tasks/finalpool/vlm-history-completer/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/vlm-history-completer/evaluation/main.py",
+        "tasks/finalpool/vlm-history-completer/groundtruth_workspace/groundtruth.json"
+      ],
+      "resolution": "staged"
+    },
+    "woocommerce-customer-survey": {
+      "note_file": "tasks/finalpool/woocommerce-customer-survey/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/woocommerce-customer-survey/docs/task.md",
+        "tasks/finalpool/woocommerce-customer-survey/docs/task_cn.md",
+        "tasks/finalpool/woocommerce-customer-survey/evaluation/main.py",
+        "tasks/finalpool/woocommerce-customer-survey/initial_workspace/form_requirement.md"
+      ],
+      "resolution": "staged"
+    },
+    "youtube-repo": {
+      "note_file": "tasks/finalpool/youtube-repo/SUGGESTED_CHANGES.md",
+      "code_changes": [
+        "tasks/finalpool/youtube-repo/evaluation/main.py"
+      ],
+      "resolution": "staged"
+    }
+  }
+}
